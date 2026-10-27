@@ -44,7 +44,7 @@ const saturdaySlots = [
 // ----- Booked Appointments (Sample Data) -----
 // Example booked date for practice
 const bookedAppointments = {
-  "2026-03-28": ["10:00AM", "2:00 PM"],
+  "2026-11-12": ["10:00 AM", "2:00 PM"],
   "2026-03-29": [],
 };
 // ----- Helpers -----

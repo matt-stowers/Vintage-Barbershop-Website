@@ -141,7 +141,7 @@ const toggleMobileMenu = () => {
     mobileMenu.classList.add("is-open");
     isMenuOpen = true;
   } else {
-    mobileMenu.Menu.classList.remove("is-open");
+    mobileMenu.classList.remove("is-open");
     isMenuOpen = false;
   }
 };
